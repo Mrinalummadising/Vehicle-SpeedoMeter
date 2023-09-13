@@ -1,0 +1,57 @@
+.container-bg {
+  background-color: #07080c;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-style: italic;
+}
+
+.image {
+  height: 240px;
+  width: 550px;
+}
+
+.Speeding {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-weight: 400;
+}
+
+.number {
+  color: #ffffff;
+}
+
+.description {
+  color: #cbd5e1;
+}
+
+.button {
+  height: 30px;
+  border: 0;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn-accelerate {
+  background-color: #0b69ff;
+  color: #cbd5e1;
+  margin-right: 20px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.btn-brake {
+  background-color: #00000000;
+  color: #94a3b8;
+  border: #94a3b8 solid 3px;
+  border-radius: 10px;
+  padding: 10px;
+}
